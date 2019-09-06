@@ -10,8 +10,8 @@
   "dependencies": {
     "epress": "0.0.1-security",
     "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
     "styled-components": "^4.3.2"
   },
   "devDependencies": {
@@ -25,9 +25,9 @@
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.6",
     "copy-webpack-plugin": "^5.0.4",
-    "webpack": "^4.39.1",
-    "webpack-cli": "^3.3.6",
-    "webpack-dev-server": "^3.7.2",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.8",
+    "webpack-dev-server": "^3.8.0",
     "webpack-node-externals": "^1.7.2"
   }
 }
